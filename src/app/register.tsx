@@ -13,7 +13,7 @@ import { useBadgeStore } from "@/store/badge-store"
 
 import { Button } from "@/components/button";
 
-const EVENT_ID = "9e9bd979-9d10-4915-b339-3786b1634f33"
+const EVENT_ID = "9e9bd979-9d10-4915-b339-3786b1634f34"
 
 export default function Register(){
   const [name, setName] = useState("")
